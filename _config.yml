@@ -4,10 +4,10 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: 耗子小王
 subtitle: "打码改变人生"
 description: "耗子的个人博客"
-keywords: 码志, Hao Wang
+keywords: 耗子小王, Hao Wang
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Hao Wang
 organization: haozixiaowang.com
-organization_url: http://www.zkh360.com
+organization_url: https://github.com/haoziapple
 github_username: haoziapple
 location: Nanjing, China
 email: haozixiaowang@163.com
