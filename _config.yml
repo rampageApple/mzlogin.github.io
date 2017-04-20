@@ -6,8 +6,8 @@ url: http://mazhuang.org
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "耗子的个人博客"
+keywords: 码志, Hao Wang
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
+author: Hao Wang
+organization: haozixiaowang.com
 organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: haoziapple
+location: Nanjing, China
+email: haozixiaowang@163.com
 
 # ---------------- #
 #    Navigation    #

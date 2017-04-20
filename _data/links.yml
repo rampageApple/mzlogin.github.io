@@ -1,11 +1,11 @@
-- name: Connie 酱
-  url: https://connie99.github.io
+- name: baidu
+  url: https://www.baidu.com
 
-- name: 只宁静不致远
-  url: http://zxning.github.io
+- name: google
+  url: http://www.google.com
 
-- name: Blog Something
-  url: http://chenxiaoyoyo.github.io
+- name: myGit
+  url: https://github.com/haoziapple
 
 - name: 码志
   url: http://mazhuang.org
